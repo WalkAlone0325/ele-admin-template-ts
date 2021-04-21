@@ -3,7 +3,6 @@
 注意：
 
 1. 请使用 `yarn build:js` 命令打包，`tsc` 的 UI 库报错，还没有找到解决办法
-2.
 
 This template should help get you started developing with Vue 3 and Typescript in Vite.
 
