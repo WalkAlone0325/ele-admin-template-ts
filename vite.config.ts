@@ -32,6 +32,7 @@ export default defineConfig({
     //   ],
     // }),
   ],
+  base: '/ele-admin-template-ts/',
   resolve: {
     alias: {
       '@': resolve(__dirname, 'src'),
