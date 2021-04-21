@@ -3,11 +3,7 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from 'vue'
-
-export default defineComponent({
-  name: 'App',
-})
+export default {}
 </script>
 
 <style></style>
